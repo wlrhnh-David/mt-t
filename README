@@ -23,3 +23,4 @@ Test two branch which track to same remote branch
 
 在local_second分支上添加改行
 在master分支上添加该行
+只在master上添加改行
